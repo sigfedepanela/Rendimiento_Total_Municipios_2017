@@ -31,11 +31,11 @@ jsonSource_MunicipiosProductoresdePaneladeColombia_1.addFeatures(features_Munici
                 source:jsonSource_MunicipiosProductoresdePaneladeColombia_1, 
                 style: style_MunicipiosProductoresdePaneladeColombia_1,
     title: 'Municipios Productores de Panela de Colombia <br />\
-    <img src="styles/legend/MunicipiosProductoresdePaneladeColombia_1_0.png" />  0.0000 - 2.8000 <br />\
-    <img src="styles/legend/MunicipiosProductoresdePaneladeColombia_1_1.png" />  2.8000 - 5.6000 <br />\
-    <img src="styles/legend/MunicipiosProductoresdePaneladeColombia_1_2.png" />  5.6000 - 8.4000 <br />\
-    <img src="styles/legend/MunicipiosProductoresdePaneladeColombia_1_3.png" />  8.4000 - 11.2000 <br />\
-    <img src="styles/legend/MunicipiosProductoresdePaneladeColombia_1_4.png" />  11.2000 - 14.0000 <br />'
+    <img src="styles/legend/MunicipiosProductoresdePaneladeColombia_1_0.png" />  0 - 3 <br />\
+    <img src="styles/legend/MunicipiosProductoresdePaneladeColombia_1_1.png" />  3 - 5 <br />\
+    <img src="styles/legend/MunicipiosProductoresdePaneladeColombia_1_2.png" />  5 - 7 <br />\
+    <img src="styles/legend/MunicipiosProductoresdePaneladeColombia_1_3.png" />  7 - 9 <br />\
+    <img src="styles/legend/MunicipiosProductoresdePaneladeColombia_1_4.png" />  9 - 15 <br />'
         });var format_DepartamentosdeColombia_2 = new ol.format.GeoJSON();
 var features_DepartamentosdeColombia_2 = format_DepartamentosdeColombia_2.readFeatures(json_DepartamentosdeColombia_2, 
             {dataProjection: 'EPSG:4326', featureProjection: 'EPSG:3857'});
