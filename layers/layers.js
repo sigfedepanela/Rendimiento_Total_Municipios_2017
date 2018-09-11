@@ -60,7 +60,7 @@ jsonSource_RendimientodeCaaPaneleraToneladasHa2017_3.addFeatures(features_Rendim
                 title: '<img src="styles/legend/RendimientodeCaaPaneleraToneladasHa2017_3.png" /> Rendimiento de Caña Panelera (Toneladas/Ha) - 2017'
             });
 
-lyr_LimiteDepartamental_0.setVisible(true);lyr_MunicipiosProductoresdePaneladeColombia_1.setVisible(true);lyr_DepartamentosdeColombia_2.setVisible(true);lyr_RendimientodeCaaPaneleraToneladasHa2017_3.setVisible(false);
+lyr_LimiteDepartamental_0.setVisible(true);lyr_MunicipiosProductoresdePaneladeColombia_1.setVisible(true);lyr_DepartamentosdeColombia_2.setVisible(false);lyr_RendimientodeCaaPaneleraToneladasHa2017_3.setVisible(false);
 var layersList = [baseLayer,lyr_LimiteDepartamental_0,lyr_MunicipiosProductoresdePaneladeColombia_1,lyr_DepartamentosdeColombia_2,lyr_RendimientodeCaaPaneleraToneladasHa2017_3];
 lyr_LimiteDepartamental_0.set('fieldAliases', {'nombre_dep': 'nombre_dep', 'No': 'No', });
 lyr_MunicipiosProductoresdePaneladeColombia_1.set('fieldAliases', {'DEPT': 'DEPT', 'MUNICIPIO': 'MUNICIPIO', 'CULTIVO': 'CULTIVO', 'AÑO': 'AÑO', 'A.SEM.(Ha)': 'A.SEM.(Ha)', 'A.COS.(Ha)': 'A.COS.(Ha)', 'PROD.(Ton)': 'PROD.(Ton)', 'Rend.(Ton/': 'Rend.(Ton/', });
